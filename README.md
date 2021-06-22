@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... lokeshkumar6722@gmail.com
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...2580 is my card number
+- ⚡ Fun fact: ...2580 is my passcode
 
