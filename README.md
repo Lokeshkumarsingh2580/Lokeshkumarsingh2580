@@ -42,7 +42,8 @@ Here are some ideas to get you started:
 
 
 
-# LokeshResume
+#               Resume
+
 Name:Lokesh Kumar Singh
 
  
@@ -80,7 +81,7 @@ Skills:
 - Name: Whois
 - level: 95
   
-  Knowledge: Also worked on Adobe Photoshop , corel Draw and Flimora, grew up New Delhi
+  Knowledge: Also worked on Adobe Photoshop , corel Draw and Flimora.
  
 Hobbies:
 - Chess Player
