@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/LokeshKumarSingh2580/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=LokeshKumarSingh2580">
 </a>
 <a href="https://github.com/LokeshKumarSingh2580?tab=followers"><img src="https://img.shields.io/github/followers/LokeshKumarSingh2580?label=Followers&style=social" alt="GitHub Badge"></a>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 #               Resume
 
-Name:Lokesh Kumar Singh
+Name: Lokesh Kumar Singh
 
  
 About: Hi,i am Lokesh Kumar Singh. i have a profound knowledge in metasploit Framework 
