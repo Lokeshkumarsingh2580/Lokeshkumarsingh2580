@@ -81,7 +81,8 @@ Skills:
 - Name: Whois
 - level: 95
   
-  Knowledge: Also worked on Adobe Photoshop , corel Draw and Flimora.
+  Knowledge: Also worked on Adobe Photoshop , Corel
+ Draw and Flimora.
  
 Hobbies:
 - Chess Player
