@@ -1,5 +1,4 @@
 ### Hi there here's all you need to know 👋
-
 <!--
 **Lokeshkumarsingh2580/Lokeshkumarsingh2580** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
