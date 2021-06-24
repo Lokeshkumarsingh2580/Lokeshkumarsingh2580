@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 Name: Lokesh Kumar Singh
 
  
-About: Hi,i am Lokesh Kumar Singh. i have a profound knowledge in metasploit Framework 
+About: Hi,i am Lokesh Kumar Singh.i have a profound knowledge in metasploit Framework 
         and Social Engineering.
         i am also very familier with operating system like Linux , Parrot , Windows   
      
