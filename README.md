@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Java
-- 🌱 I’m currently learning ...Java
-- 👯 I’m looking to collaborate on ...Java
-- 🤔 I’m looking for help with ... Ethical Hacking , Java.
+- 🔭 I’m currently working on ...HTML/CSS/JAVASCRIPT
+- 🌱 I’m currently learning ...React.Js
+- 👯 I’m looking to collaborate on ...Ethical Hacking
+- 🤔 I’m looking for help with ... Ethical Hacking , React.js.
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... lokeshkumar6722@gmail.com
 - 😄 Pronouns: ...He
-- ⚡ Fun fact: ...2580 is my passcode
+- ⚡ Fun fact: ...2580 is very rare passcode
 
 
 
@@ -48,10 +48,10 @@ Name: Lokesh Kumar Singh
 
  
 About: Hi,i am Lokesh Kumar Singh.i have a profound knowledge in metasploit Framework 
-        and Social Engineering.
+        Social Engineering and programming languages.
         i am also very familier with operating system like Linux , Parrot , Windows   
      
-Position: Ethical Hacker
+Position: Front-End Web Developer , Ethical Hacker 
 
 Birth:
   year: 1996
@@ -59,7 +59,7 @@ Birth:
   location: New Delhi
 
 Education:
-- Pursuing BCA From Indra Ghandhi University
+- Completed BCA From Indra Ghandhi University
 - Completed Diploma In Cyber Security
  
 # Skill level goes 0 to 100
@@ -70,16 +70,19 @@ Skills:
 -  level: 90
 - Name: Nmap
 - level: 95
-- Name: Sql Map
-- level: 85
-- Name: Nessus
-- level: 80
-- Name: Wireshark 
-- level: 80
-- Name: Aircrack-ng
-- level: 70
-- Name: Whois
+- Name: Hyper-Text-Mark-Up 
 - level: 95
+- Name: Cascade Styling Sheets
+- level: 80
+- Name: JavaScript
+- level: 80
+- Name: Python
+- level: 90
+- Name: React.Js
+- level: Currently Learning
+- Name: Wireshark
+- level: 95
+
   
   Knowledge: Also worked on Adobe Photoshop , Corel
  Draw and Flimora.
