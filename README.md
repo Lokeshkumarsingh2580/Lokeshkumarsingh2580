@@ -41,7 +41,6 @@ I'm currently diving deeper into Artificial-Intelligence. Excited to explore new
 ### 📫 Let's Connect
 
 - [LinkedIn](www.linkedin.com/in/lokeshkumarsingh0)
-- [Twitter](your-twitter-profile)
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about frontend development!
 
