@@ -17,13 +17,13 @@ I'm a passionate Frontend Developer with a keen eye for design and a love for cr
 
 ### 🚀 Projects
 
-#### [Project Name 1](link-to-project-1)
+#### [Project Name 1](https://lokeshkumarsingh2580.github.io/Ketan---Childcare-Kids-School-Website/)
 Short description and highlights of the project.
 
 **Tech Stack:**
-- React
-- Redux
-- Styled Components
+- Html
+- Tailwind
+- Javascript
 
 #### [Project Name 2](link-to-project-2)
 Brief overview and notable features.
