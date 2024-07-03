@@ -35,7 +35,7 @@ Brief overview and notable features.
 
 ### 🌱 Current Learning Focus
 
-I'm currently diving deeper into Artificial-Intelligence. Excited to explore new possibilities and enhance my skills.
+I'm currently diving deeper into Backend. Excited to explore new possibilities and enhance my skills.
 
 ### 📫 Let's Connect
 
